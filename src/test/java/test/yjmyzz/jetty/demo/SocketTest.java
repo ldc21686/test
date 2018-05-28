@@ -9,7 +9,7 @@ import java.net.ServerSocket;
  * {type your description }
  *
  * @since: 12/11/15.
- * @author: yangjunming
+ * @author: ldc
  */
 public class SocketTest {
 
